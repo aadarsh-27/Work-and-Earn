@@ -1,0 +1,13 @@
+1.conda create --name myDjangoEnv python=3.8
+2.conda activate myDjangoEnv
+
+
+3.django-admin startproject ProjectName - Used for Creating Django Project
+4.python manage.py startapp AppName - Used for Creating applications inside project
+5.python manage.py runserver - Used for running Website on local host
+6.python manage.py migrate - Used for applying changes and modifications to project
+7.python manage.py makemirgations Appname - Used for Applying changes made inside application to Project
+8.python manage.py createsuperuser - Used for creating Database admin(usename/pass)
+9.pip install django-bootstrap4 - for resolving bootstrap error
+
+
